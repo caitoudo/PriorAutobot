@@ -8,4 +8,4 @@ nano .env
 RPC_URL=https://sepolia.base.org
 PRIVATE_KEYS="0x....,0x....."
 
-node PriorAutobot
+node PriorAutobot.js
